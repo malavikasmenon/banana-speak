@@ -46,7 +46,7 @@ img {
     color: #0C457A;
     border-radius: 10px;
     width: 280px;
-    padding: 0.2em;
+    padding: 0.5em;
     padding-top: 1em;
     height: 10vh;
     display: block;
@@ -62,7 +62,7 @@ h4 {
 textarea {
     width: 280px;
     height: 10vh;
-    padding: 0.2em;
+    padding: 0.5em;
     padding-top: 1em;
     border: 3px #0C457A;
     color: #0C457A;
